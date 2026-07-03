@@ -1,0 +1,2 @@
+# northstarpalaceclub
+Static site: northstarpalaceclub
